@@ -6,9 +6,9 @@ This project transforms raw customer transaction data into a strategic Retention
 
 Key Features: Customer demographics (age_group, customer_type), transaction history (Total Spend), product category, geographical data, and promotional flags used to engineer custom metrics like Discount Reliance Ratio (DRR) and Brand Pull Index.
 🛠️ Tools & Technologies
-Languages & Querying: Python (Pandas, NumPy, Seaborn), SQL (PostgreSQL / MySQL / SQL Server)
+Languages & Querying: Python (GOOGLE COLAB), SQL (PostgreSQL )
 BI & Visualization: Power BI (DAX, Shape Maps, Scatter Plots)
-Reporting & Presentation: Microsoft Word (Report), Gamma (Executive Deck)
+Reporting & Presentation: Microsoft Word (Report), 
 📈 Steps & Methodology
 Data Loading & Cleaning (Python): Imported raw data and handled missing values, duplicates, and data type conversions.
 Feature Engineering (Python/SQL): Calculated advanced business metrics:
